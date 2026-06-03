@@ -1,0 +1,288 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "I <span class='highlight-text-primary'>create</span> digital content and <span class='highlight-text-primary'>build</span> modern web experiences",
+        "cta_primary": "Connect",
+        "cta_secondary": "Explore Works",
+        "stats": "<span class='highlight-text-tertiary'>IT Blogger</span> & Developer",
+        "scroll": "Scroll Down"
+    },
+    "about": {
+        "title": "About",
+        "intro": "An <span class='highlight-text-primary'>IT Blogger</span> and Developer who shares knowledge and turns <span class='highlight-text-secondary'>ideas into real products</span>.",
+        "description": "Based in <span class='highlight-text-primary'>Jizzax, Uzbekistan</span>; creating content, building projects, and sharing knowledge through <span class='highlight-text-secondary'>blogging and coding</span>, with a focus on <span class='highlight-text-tertiary'>practical solutions</span>.",
+        "full": "I'm Zarifjon A'zamov — an IT Blogger and Developer from Jizzax, Uzbekistan. I'm passionate about technology, programming, and sharing knowledge with the community through my blog and social media channels.<br/><br/>I create educational content about programming, tech trends, and software development on Telegram, Instagram, and YouTube under the brand AZAMOV. My goal is to make technology accessible and understandable for Uzbek-speaking audiences.<br/><br/>On the development side, I work with modern web technologies including React, Next.js, Node.js, and various other tools. I enjoy building practical applications that solve real-world problems.<br/><br/>I believe in learning by doing — every project teaches something new, and sharing that knowledge multiplies its value. Whether it's a blog post, a video, or a code project, I aim to deliver quality content that genuinely helps people.<br/><br/>My current focus is growing the AZAMOV brand, creating more educational tech content, and building open-source projects for the community.",
+        "cta": "Read Full Version"
+    },
+    "manifesto": {
+        "items": [
+            "RADICAL TRANSPARENCY",
+            "INTENTIONAL MINIMALISM",
+            "ARCHITECTURAL INTEGRITY",
+            "FIRST PRINCIPLES THINKING",
+            "PERFORMANCE WITHOUT COMPROMISE",
+            "SCALABLE VISION"
+        ]
+    },
+    "stack": {
+        "title": "STACK",
+        "items": [
+            {
+                "title": "Frontend Technologies",
+                "items": [
+                    {
+                        "name": "React",
+                        "icon": "https://cdn.simpleicons.org/react"
+                    },
+                    {
+                        "name": "Next.js",
+                        "icon": "https://cdn.simpleicons.org/nextdotjs"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "icon": "https://cdn.simpleicons.org/tailwindcss"
+                    },
+                    {
+                        "name": "Bootstrap",
+                        "icon": "https://cdn.simpleicons.org/bootstrap"
+                    },
+                    {
+                        "name": "Framer Motion",
+                        "icon": "https://cdn.simpleicons.org/framer"
+                    },
+                    {
+                        "name": "TypeScript",
+                        "icon": "https://cdn.simpleicons.org/typescript"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "icon": "https://cdn.simpleicons.org/javascript"
+                    },
+                    {
+                        "name": "HTML5",
+                        "icon": "https://cdn.simpleicons.org/html5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "icon": "https://www.svgrepo.com/show/452185/css-3.svg"
+                    }
+                ]
+            },
+            {
+                "title": "Backend Technologies",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "icon": "https://cdn.simpleicons.org/nodedotjs"
+                    },
+                    {
+                        "name": "PHP",
+                        "icon": "https://cdn.simpleicons.org/php"
+                    },
+                    {
+                        "name": "Laravel",
+                        "icon": "https://cdn.simpleicons.org/laravel"
+                    },
+                    {
+                        "name": "Python",
+                        "icon": "https://cdn.simpleicons.org/python"
+                    }
+                ]
+            },
+            {
+                "title": "Databases & ORMs",
+                "items": [
+                    {
+                        "name": "MySQL",
+                        "icon": "https://cdn.simpleicons.org/mysql"
+                    },
+                    {
+                        "name": "MongoDB",
+                        "icon": "https://cdn.simpleicons.org/mongodb"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "icon": "https://cdn.simpleicons.org/postgresql"
+                    }
+                ]
+            },
+            {
+                "title": "Tools & Platforms",
+                "items": [
+                    {
+                        "name": "Git",
+                        "icon": "https://cdn.simpleicons.org/git"
+                    },
+                    {
+                        "name": "GitHub",
+                        "icon": "https://cdn.simpleicons.org/github"
+                    },
+                    {
+                        "name": "Vercel",
+                        "icon": "https://cdn.simpleicons.org/vercel"
+                    },
+                    {
+                        "name": "Telegram",
+                        "icon": "https://cdn.simpleicons.org/telegram"
+                    },
+                    {
+                        "name": "YouTube",
+                        "icon": "https://cdn.simpleicons.org/youtube"
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "PROJECTS",
+        "intro": "A collection of <span class='highlight-text-primary'>experiments</span>, <span class='highlight-text-primary'>products</span>, and <span class='highlight-text-primary'>digital artifacts</span> built with <span class='highlight-text-secondary'>passion</span>.",
+        "scroll_text": "SCROLL TO EXPLORE",
+        "end_text": "END",
+        "items": [
+            {
+                "id": "1",
+                "title": "AZAMOV Blog",
+                "category": "IT Blog Platform",
+                "year": "2025",
+                "description": "AZAMOV Blog — an IT blog platform where programming tutorials, tech reviews, and software development guides are published for Uzbek-speaking tech enthusiasts.",
+                "image": "/20260427093247885.jpg",
+                "stack": [
+                    "Next.js",
+                    "React",
+                    "TailwindCSS",
+                    "Node.js"
+                ]
+            },
+            {
+                "id": "2",
+                "title": "Dev Tools Collection",
+                "category": "Web Application",
+                "year": "2025",
+                "description": "A collection of useful developer tools built for everyday coding tasks — including formatters, converters, and generators, all in one clean interface.",
+                "image": "/20260427093247620.jpg",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "TailwindCSS"
+                ]
+            },
+            {
+                "id": "3",
+                "title": "Portfolio Website",
+                "category": "Personal Portfolio",
+                "year": "2025",
+                "description": "This very portfolio — built with Next.js and Framer Motion, featuring a cyberpunk aesthetic with glassmorphism effects, 3D interactions, and smooth animations.",
+                "image": "/20260305210513749.jpg",
+                "stack": [
+                    "Next.js",
+                    "React",
+                    "TailwindCSS",
+                    "Framer Motion"
+                ]
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "Roadmap",
+        "description": "My journey in IT — from the first lines of code to building projects and creating content for the community.",
+        "items": [
+            {
+                "id": "01",
+                "year": "2021",
+                "description": "Started my programming journey by learning the basics of HTML and CSS. Built my first static websites and discovered my passion for web development.",
+                "tags": [
+                    "HTML",
+                    "CSS"
+                ]
+            },
+            {
+                "id": "02",
+                "year": "2022",
+                "description": "Expanded into JavaScript and started building interactive web pages. Learned the fundamentals of programming logic and DOM manipulation.",
+                "tags": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ]
+            },
+            {
+                "id": "03",
+                "year": "2023",
+                "description": "Discovered React and modern frontend frameworks. Started working with databases and backend technologies. Launched the AZAMOV brand on social media.",
+                "tags": [
+                    "React",
+                    "Node.js",
+                    "MySQL"
+                ]
+            },
+            {
+                "id": "04",
+                "year": "2024",
+                "description": "Deepened expertise in full-stack development with Next.js, MongoDB, and Laravel. Grew the AZAMOV community on Telegram and YouTube with regular IT content.",
+                "tags": [
+                    "Next.js",
+                    "MongoDB",
+                    "Laravel"
+                ]
+            },
+            {
+                "id": "05",
+                "year": "2025",
+                "description": "Currently focused on building scalable web applications, creating high-quality IT educational content, and expanding the AZAMOV brand across all platforms in Uzbekistan.",
+                "tags": [
+                    "Next.js",
+                    "PostgreSQL",
+                    "Content Creation"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "CONTACT",
+        "description": "Whether you want to collaborate on a project, discuss tech, or just say hello — I'm always open to connecting.",
+        "email": "devazamov0@gmail.com",
+        "phone": "+998 95 032 80 88",
+        "send_email": "Send an Email",
+        "direct_line": "Direct Line",
+        "all_rights_reserved": "ALL RIGHTS RESERVED.",
+        "modal_title": "Let's Connect",
+        "modal_description": "Send me a message and I'll get back to you as soon as possible."
+    },
+    "social": {
+        "title": "SOCIAL",
+        "items": [
+            {
+                "label": "GitHub",
+                "href": "https://github.com/AZAMOV"
+            },
+            {
+                "label": "Telegram",
+                "href": "https://t.me/AZAMOV"
+            },
+            {
+                "label": "Instagram",
+                "href": "https://instagram.com/AZAMOV"
+            },
+            {
+                "label": "YouTube",
+                "href": "https://youtube.com/@AZAMOV"
+            }
+        ]
+    },
+    "others": {
+        "about_project": "About the Project",
+        "technologies": "Technologies",
+        "live_demo": "Live Demo",
+        "source_code": "Source Code",
+        "project_details": "Details about",
+        "select_language": "Select Language",
+        "change_the_site_language": "Change the site language."
+    }
+}

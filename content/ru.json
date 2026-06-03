@@ -1,0 +1,180 @@
+{
+    "nav": {
+        "home": "Главная",
+        "about": "Обо мне",
+        "stack": "Технологии",
+        "projects": "Проекты",
+        "roadmap": "Карта пути",
+        "contact": "Контакты"
+    },
+    "hero": {
+        "title": "Я <span class='highlight-text-primary'>создаю IT-контент</span> и строю <span class='highlight-text-primary'>современные</span> веб-решения",
+        "cta_primary": "Связаться",
+        "cta_secondary": "Проекты",
+        "stats": "<span class='highlight-text-tertiary'>IT Блогер</span> & Разработчик",
+        "scroll": "Прокрутите вниз"
+    },
+    "about": {
+        "title": "Обо мне",
+        "intro": "<span class='highlight-text-primary'>IT Блогер</span> и Разработчик — делюсь знаниями и превращаю <span class='highlight-text-secondary'>идеи в реальные продукты</span>.",
+        "description": "Из <span class='highlight-text-primary'>Джизака, Узбекистан</span>; создаю контент, строю проекты и делюсь знаниями через <span class='highlight-text-secondary'>блогинг и программирование</span>.",
+        "full": "Я Зарифжон Азамов — IT Блогер и Разработчик из Джизака, Узбекистан. Увлечён технологиями, программированием и распространением знаний в сообществе.<br/><br/>Создаю образовательный контент о программировании, технологических трендах и разработке ПО в Telegram, Instagram и YouTube под брендом AZAMOV. Моя цель — сделать технологии доступными и понятными для узбекоязычной аудитории.<br/><br/>В разработке работаю с современными веб-технологиями: React, Next.js, Node.js и другими инструментами. Люблю создавать практические приложения, решающие реальные задачи.<br/><br/>Верю в обучение через практику — каждый проект учит чему-то новому, а распространение этих знаний умножает их ценность. Будь то статья, видео или код — стремлюсь давать качественный контент, который реально помогает людям.<br/><br/>Сейчас сосредоточен на развитии бренда AZAMOV, создании большего количества образовательного IT-контента и разработке open-source проектов для сообщества.",
+        "cta": "Читать полностью"
+    },
+    "manifesto": {
+        "items": [
+            "RADICAL TRANSPARENCY",
+            "INTENTIONAL MINIMALISM",
+            "ARCHITECTURAL INTEGRITY",
+            "FIRST PRINCIPLES THINKING",
+            "PERFORMANCE WITHOUT COMPROMISE",
+            "SCALABLE VISION"
+        ]
+    },
+    "stack": {
+        "title": "Технологии",
+        "items": [
+            {
+                "title": "Frontend",
+                "items": [
+                    { "name": "React", "icon": "https://cdn.simpleicons.org/react" },
+                    { "name": "Next.js", "icon": "https://cdn.simpleicons.org/nextdotjs" },
+                    { "name": "Tailwind CSS", "icon": "https://cdn.simpleicons.org/tailwindcss" },
+                    { "name": "Bootstrap", "icon": "https://cdn.simpleicons.org/bootstrap" },
+                    { "name": "Framer Motion", "icon": "https://cdn.simpleicons.org/framer" },
+                    { "name": "TypeScript", "icon": "https://cdn.simpleicons.org/typescript" },
+                    { "name": "JavaScript", "icon": "https://cdn.simpleicons.org/javascript" },
+                    { "name": "HTML5", "icon": "https://cdn.simpleicons.org/html5" },
+                    { "name": "CSS3", "icon": "https://www.svgrepo.com/show/452185/css-3.svg" }
+                ]
+            },
+            {
+                "title": "Backend",
+                "items": [
+                    { "name": "Node.js", "icon": "https://cdn.simpleicons.org/nodedotjs" },
+                    { "name": "PHP", "icon": "https://cdn.simpleicons.org/php" },
+                    { "name": "Laravel", "icon": "https://cdn.simpleicons.org/laravel" },
+                    { "name": "Python", "icon": "https://cdn.simpleicons.org/python" }
+                ]
+            },
+            {
+                "title": "Базы данных",
+                "items": [
+                    { "name": "MySQL", "icon": "https://cdn.simpleicons.org/mysql" },
+                    { "name": "MongoDB", "icon": "https://cdn.simpleicons.org/mongodb" },
+                    { "name": "PostgreSQL", "icon": "https://cdn.simpleicons.org/postgresql" }
+                ]
+            },
+            {
+                "title": "Инструменты и платформы",
+                "items": [
+                    { "name": "Git", "icon": "https://cdn.simpleicons.org/git" },
+                    { "name": "GitHub", "icon": "https://cdn.simpleicons.org/github" },
+                    { "name": "Vercel", "icon": "https://cdn.simpleicons.org/vercel" },
+                    { "name": "Telegram", "icon": "https://cdn.simpleicons.org/telegram" },
+                    { "name": "YouTube", "icon": "https://cdn.simpleicons.org/youtube" }
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "ПРОЕКТЫ",
+        "intro": "<span class='highlight-text-primary'>Эксперименты</span>, <span class='highlight-text-primary'>продукты</span> и <span class='highlight-text-primary'>цифровые артефакты</span> — созданные с <span class='highlight-text-secondary'>страстью</span>.",
+        "scroll_text": "ПРОКРУТИТЕ ДЛЯ ИЗУЧЕНИЯ",
+        "end_text": "КОНЕЦ",
+        "items": [
+            {
+                "id": "1",
+                "title": "AZAMOV Blog",
+                "category": "IT Блог Платформа",
+                "year": "2025",
+                "description": "AZAMOV Blog — IT блог платформа, где публикуются уроки по программированию, обзоры технологий и руководства по разработке ПО для узбекоязычной аудитории.",
+                "image": "/20260427093247885.jpg",
+                "stack": ["Next.js", "React", "TailwindCSS", "Node.js"]
+            },
+            {
+                "id": "2",
+                "title": "Dev Tools Collection",
+                "category": "Веб-приложение",
+                "year": "2025",
+                "description": "Коллекция полезных инструментов для разработчиков на каждый день — форматтеры, конвертеры и генераторы, всё в одном удобном интерфейсе.",
+                "image": "/20260427093247620.jpg",
+                "stack": ["React", "JavaScript", "TailwindCSS"]
+            },
+            {
+                "id": "3",
+                "title": "Портфолио сайт",
+                "category": "Личное Портфолио",
+                "year": "2025",
+                "description": "Это само портфолио — создано с Next.js и Framer Motion, с киберпанк-эстетикой, эффектами стекломорфизма, 3D-взаимодействиями и плавными анимациями.",
+                "image": "/20260305210513749.jpg",
+                "stack": ["Next.js", "React", "TailwindCSS", "Framer Motion"]
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "Карта пути",
+        "description": "Мой путь в IT — от первых строк кода до создания проектов и контента для сообщества.",
+        "items": [
+            {
+                "id": "01",
+                "year": "2021",
+                "description": "Начал свой путь в программировании, изучив основы HTML и CSS. Создал первые статические сайты и открыл в себе страсть к веб-разработке.",
+                "tags": ["HTML", "CSS"]
+            },
+            {
+                "id": "02",
+                "year": "2022",
+                "description": "Перешёл к JavaScript и начал создавать интерактивные веб-страницы. Освоил основы логики программирования и работы с DOM.",
+                "tags": ["JavaScript", "HTML", "CSS"]
+            },
+            {
+                "id": "03",
+                "year": "2023",
+                "description": "Открыл для себя React и современные фреймворки. Начал работать с базами данных и backend-технологиями. Запустил бренд AZAMOV в социальных сетях.",
+                "tags": ["React", "Node.js", "MySQL"]
+            },
+            {
+                "id": "04",
+                "year": "2024",
+                "description": "Углубил экспертизу в full-stack разработке с Next.js, MongoDB и Laravel. Развивал сообщество AZAMOV в Telegram и YouTube с регулярным IT-контентом.",
+                "tags": ["Next.js", "MongoDB", "Laravel"]
+            },
+            {
+                "id": "05",
+                "year": "2025",
+                "description": "Сейчас сосредоточен на создании масштабируемых веб-приложений, качественного образовательного IT-контента и расширении бренда AZAMOV на всех платформах в Узбекистане.",
+                "tags": ["Next.js", "PostgreSQL", "Создание контента"]
+            }
+        ]
+    },
+    "contact": {
+        "title": "КОНТАКТЫ",
+        "description": "Хотите сотрудничать над проектом, обсудить технологии или просто поздороваться — всегда открыт.",
+        "email": "devazamov0@gmail.com",
+        "phone": "+998 95 032 80 88",
+        "send_email": "Написать письмо",
+        "direct_line": "Телефон",
+        "all_rights_reserved": "ВСЕ ПРАВА ЗАЩИЩЕНЫ.",
+        "modal_title": "Давайте свяжемся",
+        "modal_description": "Отправьте сообщение, и я отвечу как можно скорее."
+    },
+    "social": {
+        "title": "СОЦИАЛЬНЫЕ СЕТИ",
+        "items": [
+            { "label": "GitHub", "href": "https://github.com/AZAMOV" },
+            { "label": "Telegram", "href": "https://t.me/AZAMOV" },
+            { "label": "Instagram", "href": "https://instagram.com/AZAMOV" },
+            { "label": "YouTube", "href": "https://youtube.com/@AZAMOV" }
+        ]
+    },
+    "others": {
+        "about_project": "О проекте",
+        "technologies": "Технологии",
+        "live_demo": "Живое Демо",
+        "source_code": "Исходный код",
+        "project_details": "Подробности",
+        "select_language": "Выбрать язык",
+        "change_the_site_language": "Изменить язык сайта."
+    }
+}
