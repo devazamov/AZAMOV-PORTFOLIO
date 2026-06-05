@@ -17,10 +17,10 @@ A highly interactive personal portfolio for **Zarifjon A'zamov** (AZAMOV) — IT
 
 - **Email:** devazamov0@gmail.com
 - **Phone:** +998 95 032 80 88
-- **Telegram:** @AZAMOV
-- **Instagram:** @AZAMOV
+- **Telegram:** https://t.me/devazamov
+- **Instagram:** https://instagram.com/devazamov
 - **YouTube:** AZAMOV
-- **GitHub:** AZAMOV
+- **GitHub:** https://github.com/devazamov
 
 ## Getting Started
 
