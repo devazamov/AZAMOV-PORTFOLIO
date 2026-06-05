@@ -19,7 +19,7 @@ A highly interactive personal portfolio for **Zarifjon A'zamov** (AZAMOV) — IT
 - **Phone:** +998 95 032 80 88
 - **Telegram:** https://t.me/devazamov
 - **Instagram:** https://instagram.com/devazamov
-- **YouTube:** AZAMOV
+- **YouTube:** https://youtube.com/@devazamov
 - **GitHub:** https://github.com/devazamov
 
 ## Getting Started
