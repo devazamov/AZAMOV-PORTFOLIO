@@ -195,51 +195,43 @@
         "items": [
             {
                 "id": "01",
-                "year": "2021",
-                "description": "Started my programming journey by learning the basics of HTML and CSS. Built my first static websites and discovered my passion for web development.",
+                "year": "2022",
+                "description": "Started my coding journey with HTML and CSS. Built my first static pages and discovered a genuine passion for web development.",
                 "tags": [
                     "HTML",
-                    "CSS"
+                    "CSS",
+                    "Basics"
                 ]
             },
             {
                 "id": "02",
-                "year": "2022",
-                "description": "Expanded into JavaScript and started building interactive web pages. Learned the fundamentals of programming logic and DOM manipulation.",
+                "year": "2023",
+                "description": "Learned JavaScript and React. Mastered DOM manipulation, async programming, and modern frontend concepts — shipping my first real projects.",
                 "tags": [
                     "JavaScript",
-                    "HTML",
-                    "CSS"
+                    "React",
+                    "Git"
                 ]
             },
             {
                 "id": "03",
-                "year": "2023",
-                "description": "Discovered React and modern frontend frameworks. Started working with databases and backend technologies. Launched the AZAMOV brand on social media.",
+                "year": "2024",
+                "description": "Moved into full-stack development with Next.js, TypeScript and Node.js. Built backend APIs and worked with relational and non-relational databases.",
                 "tags": [
-                    "React",
+                    "Next.js",
+                    "TypeScript",
                     "Node.js",
                     "MySQL"
                 ]
             },
             {
                 "id": "04",
-                "year": "2024",
-                "description": "Deepened expertise in full-stack development with Next.js, MongoDB, and Laravel. Grew the AZAMOV community on Telegram and YouTube with regular IT content.",
-                "tags": [
-                    "Next.js",
-                    "MongoDB",
-                    "Laravel"
-                ]
-            },
-            {
-                "id": "05",
                 "year": "2025",
-                "description": "Currently focused on building scalable web applications, creating high-quality IT educational content, and expanding the AZAMOV brand across all platforms in Uzbekistan.",
+                "description": "Launched the AZAMOV brand — sharing programming knowledge through Telegram, Instagram, and YouTube. Focused on creating practical IT content for Uzbek-speaking developers.",
                 "tags": [
-                    "Next.js",
-                    "PostgreSQL",
-                    "Content Creation"
+                    "Content Creation",
+                    "Blogging",
+                    "Community"
                 ]
             }
         ]
@@ -259,20 +251,28 @@
         "title": "SOCIAL",
         "items": [
             {
+                "label": "Portfolio",
+                "href": "https://devazamov.netlify.app"
+            },
+            {
                 "label": "GitHub",
-                "href": "https://github.com/AZAMOV"
+                "href": "https://github.com/devazamov"
             },
             {
                 "label": "Telegram",
-                "href": "https://t.me/AZAMOV"
+                "href": "https://t.me/devazamov"
             },
             {
                 "label": "Instagram",
-                "href": "https://instagram.com/AZAMOV"
+                "href": "https://instagram.com/devazamov"
             },
             {
                 "label": "YouTube",
-                "href": "https://youtube.com/@AZAMOV"
+                "href": "https://youtube.com/@devazamov"
+            },
+            {
+                "label": "LinkedIn",
+                "href": "https://linkedin.com/in/zarifjon-a-zamov-459659408"
             }
         ]
     },

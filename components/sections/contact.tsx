@@ -1,6 +1,7 @@
 "use client";
 
 import { ArrowUpRight } from "lucide-react";
+import Image from "next/image";
 import { useLanguage } from "@/context/language-context";
 import { BlurReveal } from "../blur-reveal";
 
@@ -78,7 +79,10 @@ export default function Contact() {
                     <div className="text-sm font-mono tracking-widest text-muted-foreground uppercase flex items-center gap-4 max-xl:hidden">
                         <span>© {new Date().getFullYear()}</span>
                         <span className="w-1.5 h-1.5 rounded-full bg-primary/50" />
-                        <span>AZAMOV. {content.contact.all_rights_reserved}</span>
+                        <span className="flex items-center gap-3">
+                            <Image src="/logo-new.png" alt="AZAMOV" width={24} height={24} className="object-contain opacity-60" />
+                            AZAMOV. {content.contact.all_rights_reserved}
+                        </span>
                     </div>
 
                     <div className="flex flex-wrap items-center justify-center gap-4">

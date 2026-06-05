@@ -15,6 +15,12 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata: Metadata = {
   title: APP_CONFIG.NAME,
   description: APP_CONFIG.DESC,
+  icons: {
+    icon: [
+      { url: "/favicon.png", type: "image/png" },
+    ],
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
@@ -23,7 +29,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="uz" suppressHydrationWarning>
       <body className={`${inter.variable} ${syne.variable} font-sans bg-background text-foreground antialiased`}>
         <LanguageProvider>
           <ThemeProvider
